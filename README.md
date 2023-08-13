@@ -1,2 +1,3 @@
 # ModDL
-Egy python program a szerveremen lévő modok egyszerű letöléséhez
+
+Egy nagyon egyszerű fájl letöltő program.
